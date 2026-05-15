@@ -1,5 +1,3 @@
-# Ball Allocation
-
 # Ball Allocation Strategies: Empirical Study
 
 This repository contains an implementation and empirical study of various strategies for allocating balls into bins under different scenarios. The experiments aim to analyze the effectiveness of these strategies in minimizing the **gap** (\( G_n \)), defined as the difference between the maximum load and the average load of the bins.
