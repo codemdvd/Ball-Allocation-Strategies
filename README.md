@@ -1,5 +1,4 @@
-# Assignment_2
-Assignment 2
+# Ball Allocation
 
 # Ball Allocation Strategies: Empirical Study
 
